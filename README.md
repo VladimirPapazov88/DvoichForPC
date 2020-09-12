@@ -13,3 +13,8 @@ To run it in the Linux or MacOS follow this steps:
 4. sh "ClassicCalc_LX_or_MACOS_Run.sh"
 
 Have a happy using file!
+
+![Image alt](https://github.com/VladimirPapazov88/DvoichForPC/blob/master/exampleFotos/example.png?raw=true)
+![Image alt](https://github.com/VladimirPapazov88/DvoichForPC/blob/master/exampleFotos/example2.png?raw=true)
+![Image alt](https://github.com/VladimirPapazov88/DvoichForPC/blob/master/exampleFotos/example3.png?raw=true)
+![Image alt](https://github.com/VladimirPapazov88/DvoichForPC/blob/master/exampleFotos/exampleDownload.png?raw=true)
