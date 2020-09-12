@@ -1,5 +1,7 @@
 The Python3 Tkinter programm
 
+The program converts a number from decimal to binary(decode) and from binary to decimal(encode)
+
 To run it in the Windows or MacOS follow this steps:
 1. Download code .zip file
 2. Unpack .zip file
