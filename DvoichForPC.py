@@ -41,6 +41,9 @@ btn.grid(column=2, row=0)
 lbl = Label(window, text="answ", font=("ArialBold", 24))
 lbl.grid(column=3, row=0)
 
+a = input("Press q to exit\n")
+
+
 
 
     
