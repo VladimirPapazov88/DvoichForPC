@@ -27,7 +27,7 @@ def clcencode():
 
 window = Tk()
 window.title("Dvoich for PC by VladimirPapazov88")
-window.geometry('1500x100')
+window.geometry('1300x100')
 
 txt = Entry(window, width=17, font=("Arial", 24))
 txt.grid(column=0, row=0)
